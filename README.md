@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruthvik Reddy</h1>
 
-<img align="right" alt="Coding" width="200" src="https://th.bing.com/th/id/R.b28f3a277d4e3ff50a49add5f4262723?rik=bXfP72dCkCsuAA&riu=http%3a%2f%2fwww.alphaprogrammer.in%2fwp-content%2fuploads%2f2021%2f04%2f8306-programming-animation.gif&ehk=Uw43Jb%2bWbcsGTVLcQ29qigHryp0mnF%2bVYUE0HyCugPs%3d&risl=&pid=ImgRaw&r=0">
+<img align="right" alt="Coding" width="300" src="https://th.bing.com/th/id/R.b28f3a277d4e3ff50a49add5f4262723?rik=bXfP72dCkCsuAA&riu=http%3a%2f%2fwww.alphaprogrammer.in%2fwp-content%2fuploads%2f2021%2f04%2f8306-programming-animation.gif&ehk=Uw43Jb%2bWbcsGTVLcQ29qigHryp0mnF%2bVYUE0HyCugPs%3d&risl=&pid=ImgRaw&r=0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruthvikr01&label=Profile%20views&color=0e75b6&style=flat" alt="ruthvikr01" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning,React.js**
